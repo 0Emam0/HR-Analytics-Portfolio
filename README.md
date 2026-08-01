@@ -8,8 +8,8 @@ Employee turnover can negatively affect productivity, team stability, and overal
 
 ## Dataset
 - Source: Kaggle HR Analytics Employee Attrition & Performance dataset
-- Main file: [WA_Fn-UseC_-HR-Employee-Attrition.csv](WA_Fn-UseC_-HR-Employee-Attrition.csv)
-- Cleaned version: [cleaned_employee_data.csv](cleaned_employee_data.csv)
+- Main file: [data/WA_Fn-UseC_-HR-Employee-Attrition.csv](data/WA_Fn-UseC_-HR-Employee-Attrition.csv)
+- Cleaned version: [data/cleaned_employee_data.csv](data/cleaned_employee_data.csv)
 
 ## Objectives
 - Explore the dataset and understand its structure
@@ -32,18 +32,17 @@ Based on the findings, the following actions are recommended:
 - Monitor attrition trends over time to assess the effectiveness of retention interventions
 
 ## Project Files
-- [HR Data Cleaning&EDA.ipynb](HR%20Data%20Cleaning%26EDA.ipynb) — Jupyter notebook with data loading, cleaning, exploration, and visual analysis
-- [Recomndations.txt](Recomndations.txt) — summary of the main findings and recommendations
-- [cleaned_employee_data.csv](cleaned_employee_data.csv) — cleaned dataset used for analysis
-- [HR_Analytics_Executive_Presentation.pptx](HR_Analytics_Executive_Presentation.pptx) — executive-style presentation for stakeholders
-- [Project-Report-Employee-Attrtion-Emam-Abu-Haifa.pptx](Project-Report-Employee-Attrtion-Emam-Abu-Haifa.pptx) — project report presentation
-- [Data Curation-HR-Data.docx](Data%20Curation-HR-Data.docx) — supporting documentation
+- [notebooks/HR Data Cleaning&EDA.ipynb](notebooks/HR%20Data%20Cleaning%26EDA.ipynb) â€” Jupyter notebook with data loading, cleaning, exploration, and visual analysis
+- [docs/Recomndations.txt](docs/Recomndations.txt) â€” summary of the main findings and recommendations
+- [docs/HR_Analytics_Executive_Presentation.pptx](docs/HR_Analytics_Executive_Presentation.pptx) â€” executive-style presentation for stakeholders
+- [docs/Project-Report-Employee-Attrtion-Emam-Abu-Haifa.pptx](docs/Project-Report-Employee-Attrtion-Emam-Abu-Haifa.pptx) â€” project report presentation
+- [docs/Data Curation-HR-Data.docx](docs/Data%20Curation-HR-Data.docx) â€” supporting documentation
 
 ## How to Use
-1. Open [HR Data Cleaning&EDA.ipynb](HR%20Data%20Cleaning%26EDA.ipynb) in Jupyter Notebook or JupyterLab.
+1. Open [notebooks/HR Data Cleaning&EDA.ipynb](notebooks/HR%20Data%20Cleaning%26EDA.ipynb) in Jupyter Notebook or JupyterLab.
 2. Review the analysis and visualizations.
-3. Read [Recomndations.txt](Recomndations.txt) for the main recommendations.
-4. Use [cleaned_employee_data.csv](cleaned_employee_data.csv) for further exploration or additional analysis.
+3. Read [docs/Recomndations.txt](docs/Recomndations.txt) for the main recommendations.
+4. Use [data/cleaned_employee_data.csv](data/cleaned_employee_data.csv) for further exploration or additional analysis.
 
 ## Notes
 This project was created as a portfolio project to demonstrate data analysis, storytelling, and business-focused insight generation.
